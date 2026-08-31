@@ -10,7 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Aiub_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-aiub-ribeiro-6a6522212/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Aiub_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joao-aiub-ribeiro-6a6522212)
 [![Instagram](https://img.shields.io/badge/Instagram-joao__aiub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao_aiub)
 [![Website](https://img.shields.io/badge/Website-aiub.com.br-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.aiub.com.br)
 [![GitHub followers](https://img.shields.io/github/followers/aiub1?style=for-the-badge&color=58A6FF&labelColor=1a1b27)](https://github.com/aiub1?tab=followers)
