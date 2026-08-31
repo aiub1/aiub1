@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Jo%C3%A3o%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%26%20TypeScript&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Aiub%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%2B%20TypeScript&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%40+Next+Shipping;APIs+REST+%7C+ERP+%7C+CRM+%7C+LMS;Node.js+%2B+TypeScript+%2B+AdonisJS;SQL+Server+%7C+MySQL+%7C+MongoDB;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
