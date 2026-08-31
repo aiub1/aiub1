@@ -31,7 +31,6 @@ Tenho experiência sólida em **APIs REST**, implementação de regras de negóc
 - 🔭 Ampliando conhecimento em **C#/.NET** e **Java**
 - 📝 Autor do artigo *"A Influência da Democracia de Dados na Agilidade Organizacional"* — Revista Inova Mais, 2024
 - 📍 São José dos Pinhais, PR — Brasil
-- ⚡ Fun fact: já tenho as conquistas **Pull Shark x3**, **Quickdraw** e **YOLO** no GitHub 😄
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
